@@ -1,0 +1,25 @@
+*{
+    font-family: Verdana, "DejaVu Sans", sans-serif;  
+}
+
+/* Correction: quotation mark added for "DejaVu Sans" */
+
+.subsection{
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#num2{
+    color: blue;
+    font-size: 36px;
+}
+
+.subsection.three{
+    font-size: 24px;
+}
+
+#num4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
